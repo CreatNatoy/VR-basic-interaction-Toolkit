@@ -7,7 +7,7 @@
 </p>
 
 # VR basic interaction Toolkit
-VR development using XR interaction toolkit. .
+VR development using XR interaction toolkit.
 *  Installing Unity and Creating the Project
 *  Importing Quidditch Game Assets
 *  Importing XR Interaction Toolkit
@@ -16,7 +16,7 @@ VR development using XR interaction toolkit. .
 *  Installing apk Files to Oculus Quest and Quest 2
 *  Oculus Link and OpenXR Setup (For SteamVR )
 *  VR Hand Animations and Action Based Input
-*  Intro to Grabbing Part
+*  Intro to Grabbing
 *  Locomotion in VR: Continuous Movement, Teleportation.
 *  Basic UI Interactions in VR
 
@@ -25,3 +25,12 @@ VR development using XR interaction toolkit. .
 - [CreatNatoy](https://github.com/CreatNatoy)
 
 ## Gameplay
+#### Grabbing 
+https://user-images.githubusercontent.com/76531899/204140995-998abcd9-7464-45ae-9811-aa973c05bca8.mp4
+#### Movement/Teleportation
+https://user-images.githubusercontent.com/76531899/204141118-67560451-bb85-487b-96d1-2e53adadbce8.mp4
+#### UI
+https://user-images.githubusercontent.com/76531899/204141286-da664c63-35e5-455d-8341-6d5953176364.mp4
+
+
+
