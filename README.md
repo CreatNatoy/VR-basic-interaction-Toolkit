@@ -19,6 +19,7 @@ VR development using XR interaction toolkit.
 *  Intro to Grabbing
 *  Locomotion in VR: Continuous Movement, Teleportation.
 *  Basic UI Interactions in VR
+*  Fullbody VR (the project has not been added, but there is a video of how it looks)
 
 ## Developer
 
@@ -31,6 +32,9 @@ https://user-images.githubusercontent.com/76531899/204140995-998abcd9-7464-45ae-
 https://user-images.githubusercontent.com/76531899/204141118-67560451-bb85-487b-96d1-2e53adadbce8.mp4
 #### UI
 https://user-images.githubusercontent.com/76531899/204141286-da664c63-35e5-455d-8341-6d5953176364.mp4
+#### Avatar VR
+https://user-images.githubusercontent.com/76531899/204860929-239c91c0-296e-4b80-ad66-d27ed8d9467d.mp4
+
 
 
 
